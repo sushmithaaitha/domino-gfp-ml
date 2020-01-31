@@ -1,5 +1,5 @@
 This is a simple project that trains a logistic regression model.
-# edited from git
+# edited from git2
 # Requirements
 * python3 
 * pandas
